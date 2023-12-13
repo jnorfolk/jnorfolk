@@ -1,7 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**jnorfolk/jnorfolk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Prior to my time over the last 1.5 years developing my data science skills independently and then through TripleTen's program, I worked on a number of fascinating physics projects in my physics B.S. - namely, planning out scientific data collection for a NASA sounding rocket as part of a PSU engineering group and evaluating X-ray detectors' comparative effectiveness with Python at Lawrence-Livermore National Lab, plus documenting the assembly of a key experiment part for dark matter project LUX-LZ. 
+
+Now, I am an aspiring Data Scientist with a strong foundation in Python, machine learning, and statistical analysis. Leveraging 1+ year of experience in data-driven projects and a B.S. in Physics; excelling in transforming complex ideas into actionable strategies. Known for quick learning, effective mentorship, and fostering collaborative team environments. 
+
+Alongside my physics experience, I thoroughly enjoyed teaching children, working first as a counselor and then as a science teacher for Nature's Classroom. I developed physics-based curriculums and improved my ability to communicate physics and experimental principles to a less knowledgeable audience, while exhibiting patience.
 
 Here are some ideas to get you started:
 
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
