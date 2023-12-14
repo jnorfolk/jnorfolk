@@ -11,3 +11,13 @@ Though I used C++, Matlab, Excel, and Python in college, I have focused on Pytho
 Most of my projects from 2023 on Github are essentially completed but could be expanded upon. I have ideas for my top projects and may work on these during my job search. These top projects include Telecom-Churn, Zyfra-Gold-Recovery, DataSpeak-QA, and OilyGiant-Region-Selection. I have a personal project involving rock climbing data that I have been playing with; I hope to use supervised learning techniques to predict the result of future route attempts based on past results. I will likely be working on some additional projects through my data science program, TripleTen, over the first half of 2024, so stay-tuned!
 
 Reach out to me at joshua.quinn.norfolk@gmail.com or via GitHub if you'd like to connect!
+
+
+## Hey 👋, This is Joshua Norfolk
+[![Gmail Badge](https://img.shields.io/badge/-joshua.quinn.norfolk@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joshua.quinn.norfolk@gmail.com)](mailto:joshua.quinn.norfolk@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-joshuanorfolk-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshuanorfolk/)](https://www.linkedin.com/in/joshuanorfolk/) [![Github Badge](https://img.shields.io/badge/-jnorfolk-grey?style=flat&logo=github&logoColor=white&link=https://github.com/jnorfolk/)](https://www.github.com/jnorfolk/) [![Twitter Badge](https://img.shields.io/badge/-joshua.quinn.norfolk@gmail.com-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/joshua.quinn.norfolk@gmail.com/)](https://www.twitter.com/joshua.quinn.norfolk@gmail.com/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://jnorfolk.github.io//)](https://jnorfolk.github.io//) <p align='left'>I enjoy rock climbing and mountaineering, reading novels, and trail running. I spent a year traveling around the U.S. and Europe to rock climb.</p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1JXIsHqn48Yf2_TWMFTmEUsxIixHTAPDhtiX0c2QOCd0/edit ' target=_blank><u>here</u>.</a></p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=jnorfolk alt=jnorfolk /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=jnorfolk&show_icons=true&include_all_commits=true)](https://github.com/jnorfolk/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnorfolk&layout=compact)](https://github.com/jnorfolk/github-readme-stats)
